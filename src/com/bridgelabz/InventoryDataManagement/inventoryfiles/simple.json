@@ -1,0 +1,45 @@
+{
+	"inventory data base": {
+		"Pulses": [
+			{
+				"price": 100,
+				"pulses": "ragi ",
+				"weight": 60
+			},
+			{
+				"price": 33,
+				"pulses": "dfdf",
+				"weight": 33
+			},
+			{
+				"price": 12,
+				"pulses": "qwwee",
+				"weight": 11
+			}
+		],
+		"Wheat": [
+			{
+				"price": 40,
+				"wheat": " Soft Red",
+				"weight": 30
+			},
+			{
+				"price": 20,
+				"weight": 10,
+				"Wheat": "fgffgh"
+			}
+		],
+		"Rice": [
+			{
+				"price": 80,
+				"rice": "jira ",
+				"weight": 50
+			},
+			{
+				"price": 12,
+				"weight": 1,
+				"Rice": "ghdhgfh"
+			}
+		]
+	}
+}
