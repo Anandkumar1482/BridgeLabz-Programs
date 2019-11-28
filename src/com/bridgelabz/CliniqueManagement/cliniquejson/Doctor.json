@@ -1,0 +1,17 @@
+[
+	{
+		"Availability": "a",
+		"Specialization": "a",
+		"Id": "DOC125",
+		"Patients": 0,
+		"Name": "za"
+	},
+	{
+		"Availability": "a",
+		"Specialization": "a",
+		"Id": "DOC861",
+		"Patients": 1,
+		"Name": "a"
+	}
+	
+]
