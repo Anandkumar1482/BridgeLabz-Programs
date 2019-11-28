@@ -1,0 +1,28 @@
+{
+	"Stock management": [
+		{
+			"total": 1000,
+			"name": "Growth stocks",
+			"number of shares": 50.0,
+			"share price": 20.0
+		},
+		{
+			"total": 600,
+			"name": "Defensive stocks",
+			"number of shares": 20.0,
+			"share price": 30.0
+		},
+		{
+			"total": 800,
+			"name": "stocks",
+			"number of shares": 20.0,
+			"share price": 40.0
+		},
+		{
+			"total": 1000.0,
+			"name": "Growth stocks",
+			"number of shares": 50.0,
+			"share price": 20.0
+		}
+	]
+}
