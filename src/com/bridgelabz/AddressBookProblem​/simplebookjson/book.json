@@ -1,0 +1,26 @@
+{
+	"address book": [
+		{
+			"anand": {
+				"zip": 2324,
+				"city": "ap",
+				"person": "anand",
+				"person first name": "anand",
+				"person last name": "kumat",
+				"state": "ap",
+				"phone number": 3433535
+			}
+		},
+		{
+			"ganesh": {
+				"zip": 2333,
+				"city": "rct",
+				"person": "ganesh",
+				"person first name": "ganesh",
+				"person last name": "dandi",
+				"state": "ap",
+				"phone number": 344554443
+			}
+		}
+	]
+}
